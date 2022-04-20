@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <record index="2">
+      <NODE0>Favorite movie:</NODE0>
+      <NODE1>movie</NODE1>
+    </record>
+    <record index="3">
+      <NODE0>Favorite series:</NODE0>
+      <NODE1>series</NODE1>
+    </record>
+    <record index="4">
+      <NODE0>Favorite food:</NODE0>
+      <NODE1>food</NODE1>
+    </record>
+  </records>
+</data>
+
