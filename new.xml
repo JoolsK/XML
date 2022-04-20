@@ -1,6 +1,22 @@
-<?xml version="1.0"?>
-<CAT>
-	<NAME>Julia</NAME>
-	<AGE>32</AGE>
-	<PETS>1</Pets>
-</CAT>
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <ju index="2">ju</ju>
+    <name_ index="1">name </name_>
+  </columns>
+  <records>
+    <record index="1">
+      <ju>lo</ju>
+      <name_>name </name_>
+    </record>
+    <record index="2">
+      <ju>56</ju>
+      <name_>age</name_>
+    </record>
+    <record index="3">
+      <ju>12</ju>
+      <name_>pets</name_>
+    </record>
+  </records>
+</data>
+
